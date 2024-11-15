@@ -1,7 +1,12 @@
 # 👋 Olá! Sou Felipe Caminha! 👨‍💻💻
 
+
+
 ## 🚀 Sobre Mim
 Sou um estudante de Ciências da Computação **terceiro período**, com uma base sólida em Lógica, Matemática e Programação.
+
+
+
 
 ## 🛠️ Experiência como Monitor
 Atuei como **Monitor na disciplina de Fundamentos de Desenvolvimento de Software**, auxiliando estudantes no desenvolvimento de projetos utilizando:
@@ -11,14 +16,22 @@ Atuei como **Monitor na disciplina de Fundamentos de Desenvolvimento de Software
 - **Azure**: Gerenciando deploys e integração/entrega contínua (**CI/CD**).  
 - **Desenvolvimento Ágil**: Utilizei em meu Projeto **iTech** as metodologias ágeis, como Scrum e Kanban, também realizando sprints mensais e backlog para o gerenciamento de tarefas.  
 
+
+
  
 ## 💡 Habilidades Técnicas
 - **Linguagens de Programação**: Python, C, Java 
-- **Frameworks e Ferramentas**: Django, Spring Boot, Azure  
-- **Bancos de Dados**: SQL  
+- **Frameworks e Ferramentas**: Django, Spring Boot, Azure
+- **Bancos de Dados**: SQL
+
+
+
 
 ## 🎯 Foco Atual
 Atualmente, estou focando meus estudos em **Desenvolvimento Back-End**, principalmente sobre o framework **Spring Boot**, tentando entender as boas práticas, suas arquiteturas e as junções com SQL e Docker.
+
+
+
 
 ## Tecnologias que Uso
 
