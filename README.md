@@ -24,16 +24,12 @@ Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** 
 
 ## 🔷 GitHub Overview
 
-<div align="center">
+<p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Fcc2187&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fcc2187&theme=github_dark"
+    alt="GitHub Profile Summary Card"
   />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcc2187&layout=compact&langs_count=6&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" 
-  />
-</div>
+</p>
 
 ---
 
