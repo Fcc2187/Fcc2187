@@ -8,8 +8,7 @@
 <br/>
 <br/>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fcc2187&show_icons=true&theme=transparent"/> 
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcc2187&layout=compact&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d1117" />
+  ![Fcc2187's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 <br/>
 <div align="center">  
