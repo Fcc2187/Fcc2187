@@ -1,71 +1,82 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=140&section=header"/>
 
-<div align="center">
+<h1 align="center" style="font-weight:700; color:#36BCF7;">
+  Bem-vindo ao meu GitHub! 💠
+</h1>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Felipe+Caminha;Desenvolvedor+Python+%26+Django;Explorando+Cloud+com+Azure;Construindo+Soluções+Robustas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Felipe+Caminha;Python+%26+Django+Developer;Cloud+%26+Azure+Enthusiast;Criando+soluções+robustas+e+escaláveis." alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-<br/>
+<br/><br/>
+
+---
+
+## 🔷 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia com foco em **Python**, **C**, **Django** e **Cloud Computing (Azure)**. 
+Tenho experiência na construção de aplicações web modernas e busco sempre escrever código limpo e eficiente.
+
+Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** e **Integração de Sistemas**.
+
+---
+
+## 🔷 GitHub Overview
 
 <div align="center">
-  <h3>👋 Sobre Mim</h3>
-  <p width="600px">
-    Sou um desenvolvedor apaixonado por transformar ideias em código. Com foco em <b>Python</b> e ecossistema web, busco sempre escrever código limpo, escalável e eficiente.
-  </p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=Fcc2187&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcc2187&layout=compact&langs_count=6&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" 
+  />
 </div>
 
-<br/>
+---
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
+## 🔷 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Fcc2187&theme=dark&background=000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7"
+    alt="GitHub Streak Graph"
+  />
+</p>
+
+
+---
+
+## 🔷 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-  <img width="15" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django" />
-  <img width="30" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="14"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="15" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="40"/>
+  <img width="14"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="40" alt="azure" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fcc2187&show_icons=true&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
-      </td>
-      <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcc2187&layout=compact&langs_count=6&theme=transparent&title_color=36BCF7&icon_color=36BCF7&text_color=9f9f9f&bg_color=0d1117&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:SEU-EMAIL-AQUI@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
