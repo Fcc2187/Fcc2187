@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=140&section=header"/>
 
 <h1 align="center" style="font-weight:700; color:#36BCF7;">
-  Bem-vindo ao meu GitHub! 💠
+  Welcome to my GitHub! 💠
 </h1>
 
 <p align="center">
