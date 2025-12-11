@@ -1,81 +1,78 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=140&section=header"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Fcc2187&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" alt="Header Banner" width="100%"/>
+<h1 align="center" style="font-weight:700; color:#36BCF7;">
+  Welcome to my GitHub! 💠
+</h1>
 
-  <br/>
-
-  ### Engenharia de Software | Escalabilidade | Arquitetura Limpa
-
-  <p align="center">
-    Desenvolvedor Full Stack apaixonado por construir soluções robustas e performáticas. 
-    Especialista em transformar requisitos complexos em código limpo, testável e eficiente.
-  </p>
-
-  <br/>
-
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=32&center=true&vCenter=true&width=1000&lines=Felipe+Caminha;Python+%26+Django+Developer;Node+and+React+Developer;Criando+soluções+robustas+e+escaláveis." alt="Typing SVG" />
   </a>
-  <a href="mailto:SEU-EMAIL@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-   <a href="https://Fcc2187.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-  </a>
+</p>
 
-</div>
+<br/><br/>
 
-<br/>
-<hr/>
+---
 
-### 🛠️ Arsenal Tecnológico
+## 🔷 Sobre Mim
+Sou um desenvolvedor apaixonado por tecnologia com foco em **Python**, **C** e **Django**. 
+Tenho experiência na construção de aplicações web modernas e busco sempre escrever código limpo e eficiente.
 
-Minha stack é focada em versatilidade e performance, cobrindo desde interfaces reativas até backends de alta disponibilidade.
+Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** e **Integração de Sistemas**.
 
-<div align="center">
+---
 
-| **Backend & API** | **Frontend & UI** | **Database & Tools** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> |
+## 🔷 GitHub Overview
 
-</div>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fcc2187&theme=github_dark"
+    alt="GitHub Profile Summary Card"
+  />
+</p>
 
-<br/>
+---
 
-### 🚀 Projetos em Destaque
+## 🔷 Contribution Graph
 
-> *Abaixo estão alguns dos projetos que demonstram minha capacidade de resolver problemas reais.*
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Fcc2187&theme=dark&background=000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7"
+    alt="GitHub Streak Graph"
+  />
+</p>
 
-| Projeto | Stack Principal | Descrição |
-| :--- | :--- | :--- |
-| **iTech** | `Django` `React` `PostgreSQL` | Uma breve descrição de uma linha sobre o que o projeto resolve e seu impacto. |
-| **ProTactic** | `Spring Boot` `Java` ` | Sistema de microsserviços focado em [funcionalidade principal]. |
-| **Celke API** | `Node.js` `Express` `MySQL` | API RESTful desenvolvida para gerenciar [dados/fluxo]. |
 
-<br/>
-<hr/>
+---
 
-### 📊 Métricas do GitHub
-
-Uma visão geral da minha atividade e contribuições na plataforma.
+## 🔷 Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fcc2187&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcc2187&layout=compact&theme=tokyonight"/>
-</div>
 
-<br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="14"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcc2187&theme=tokyonight" alt="Streak Stats" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img width="14"/>
 
-<br/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40"/>
+  <img width="14"/>
 
-<div align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img width="14"/>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Fcc2187&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azure/azure-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img width="14"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img width="14"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+
 </div>
