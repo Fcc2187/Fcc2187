@@ -15,7 +15,7 @@
 ---
 
 ## 🔷 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia com foco em **Python**, **C** e **Django**. 
+Sou um desenvolvedor apaixonado por tecnologia com foco em **Python**, **Java** e **Java Script**. 
 Tenho experiência na construção de aplicações web modernas e busco sempre escrever código limpo e eficiente.
 
 Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software** e **Integração de Sistemas**.
